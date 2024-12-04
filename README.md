@@ -2,7 +2,8 @@
 
 Use AI to translate code from one language to another.
 
-![AI Code Translator](.![Uploading screenshot.png…])
+![AI Code Translator](<img width="993" alt="screenshot" src="https://github.com/user-attachments/assets/56bd82cb-3050-4011-97a8-932f2ad2e7b2">
+)
 /)
 
 ## Running Locally
