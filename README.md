@@ -1,16 +1,29 @@
-## Hi there 👋
+# AI Code Translator
 
-<!--
-**Aesoulr/Aesoulr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Use AI to translate code from one language to another.
 
-Here are some ideas to get you started:
+![AI Code Translator](./public/screenshot.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Running Locally
+
+**1. Clone Repo**
+
+```bash
+git clone https://github.com/mckaywrigley/ai-code-translator.git
+```
+
+**2. Install Dependencies**
+
+```bash
+npm i
+```
+
+**3. Run App**
+
+```bash
+npm run dev
+```
+
+## Contact
+
+If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
